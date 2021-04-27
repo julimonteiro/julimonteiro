@@ -1,6 +1,6 @@
 ### Olá, como vai? 👋
 
-Atualmente estudando Desenvolvimento de Software na Trybe, uma escola que ensina a programar, a aprender e a trabalhar, buscando espalhar pelo mundo minha paixão pela tecnologia, de forma a sempre buscando aprender mais e mais.
+Eu sou Julio Cesar, atualmente estudo Desenvolvimento de Software na Trybe, uma escola que ensina a programar, a aprender e a trabalhar, buscando espalhar pelo mundo minha paixão pela tecnologia, de forma a sempre buscando aprender mais e mais.
 
 ### Quais são as minhas habilidades?
 Geração de ideias, Desenvolvimento de software , Metodologias Ágeis e Soft Skills.
