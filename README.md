@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesar1402&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesar1402&show_icons=true&count_private=true&theme=react)](https://github.com/JulioCesar1402/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar1402&layout=compact&theme=react)](https://github.com/JulioCesar1402/github-readme-stats)
 <!--
 **JulioCesar1402/JulioCesar1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
