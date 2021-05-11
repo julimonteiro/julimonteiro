@@ -8,7 +8,7 @@ Idea Generation, Software Development, Agile Methodologies and Soft Skills.
 Fight to achieve my goals, developing ideas to change people's lives for the better. Always giving one commit at a time.
 
 > ### What do I do in my free time?
-I try to do my hobbies, I love to draw whatever comes to my mind and cook something delicious. yum
+I try to do my hobbies, I love to draw 🎨 whatever comes to my mind 🧠 and cook something delicious. 😋
 
 > ### What are my specialties? 👨💻
 Programming in Unix & Bash, Python, HTML, CSS, JavaScript, React; Database management, Rest, Server-side, Authentication, Security, Deploy, Algorithms, Data structure, Programming paradigms, Computer architecture; Online support; Organizing project updates via Git-GitHub.
