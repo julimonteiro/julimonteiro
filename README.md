@@ -13,7 +13,7 @@ I try to do my hobbies, I love to draw 🎨 whatever comes to my mind 🧠 and c
 > ### What are my specialties? 👨💻
 Programming in Unix & Bash, Python, HTML, CSS, JavaScript, React; Database management, Rest, Server-side, Authentication, Security, Deploy, Algorithms, Data structure, Programming paradigms, Computer architecture; Online support; Organizing project updates via Git-GitHub.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesar1402&show_icons=true&count_private=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesar1402&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JulioCesar1402/JulioCesar1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
