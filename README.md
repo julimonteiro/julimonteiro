@@ -2,9 +2,9 @@
 ### Studying Software Development at Trybe, developing ideas to change people's lives for the better. Always giving one commit at a time.
 </br>
 <div>
-  <a href="https://github.com/JulioCesar1402">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesar1402&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar1402&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/julimonteiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julimonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julimonteiro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ## Currently, I'm learning and working with the following:
